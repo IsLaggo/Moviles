@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PUZZLE DISNEY</string>
+    <string name="texto1"> Haz click sobre cada una de las imágenes para moverse a la siguiente</string>
+    <string name="texto2">¿Qué película es?</string>
+    <string name="sol1">La Sirenita</string>
+    <string name="sol2">El Libro de la Selva</string>
+    <string name="sol3">Peter Pan</string>
+    <string name="adivinadas">El número de imágenes adivinadas es:</string>
+    <string name="resultado">El resultado es</string>
+    <string name="correcto">CORRECTO</string>
+    <string name="incorrecto">INCORRECTO</string>
+    <string name="comprobar">COMPROBAR</string>
+    <string name="accederaweb">ACCEDER A WEB</string>
+    <string name="web">Ir a web</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DISNEY QUIZ</string>
+    <string name="texto1">Click on the images to move to the next</string>
+    <string name="texto2">What film is it</string>
+    <string name="sol1">The Little Mermaid</string>
+    <string name="sol2">The Jungle Book</string>
+    <string name="sol3">Peter Pan</string>
+    <string name="adivinadas">The number of images guessed is:</string>
+    <string name="resultado">The result is</string>
+    <string name="correcto">RIGHT</string>
+    <string name="incorrecto">WRONG</string>
+    <string name="comprobar">CHECK IT!</string>
+    <string name="accederaweb">WEB</string>
+</resources>
