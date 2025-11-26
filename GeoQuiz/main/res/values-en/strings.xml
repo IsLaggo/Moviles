@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="texto_pregunta">What river flows through London??</string>
+    <string name="opcion1">Thames</string>
+    <string name="opcion2">Seine</string>
+    <string name="opcion3">Manzanares</string>
+    <string name="correcto">Congratulations! The answer is correct.</string>
+    <string name="incorrecto">Sorry! The answer is wrong.</string>
+    <string name="pista1"> Starting with T</string>
+    <string name="texto_pregunta2">¿Cuál es la capital de España?</string>
+    <string name="opcion1_2">París</string>
+    <string name="opcion2_2">Londres</string>
+    <string name="opcion3_2">Madrid</string>
+    <string name="pista2">Manzanares flows along the city</string>
+    <string name="texto_pregunta3">¿Cuál es la montaña más alta?</string>
+    <string name="opcion1_3">Teide</string>
+    <string name="opcion2_3">Kilimanjaro</string>
+    <string name="opcion3_3">Fuji</string>
+    <string name="pista3">It is in Africa</string>
+    <string name="pista">Pista</string>
+</resources>

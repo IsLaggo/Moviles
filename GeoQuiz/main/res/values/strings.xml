@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="texto_pregunta">¿Qué río pasa por Londres?</string>
+    <string name="opcion1">Támesis</string>
+    <string name="opcion2">Sena</string>
+    <string name="opcion3">Manzanares</string>
+    <string name="pista1"> Empieza con T</string>
+    <string name="texto_pregunta2">¿Cuál es la capital de España?</string>
+    <string name="opcion1_2">París</string>
+    <string name="opcion2_2">Londres</string>
+    <string name="opcion3_2">Madrid</string>
+    <string name="pista2"> Por esta ciudad pasa el Manzanares</string>
+    <string name="texto_pregunta3">¿Cuál es la montaña más alta?</string>
+    <string name="opcion1_3">Teide</string>
+    <string name="opcion2_3">Kilimanjaro</string>
+    <string name="opcion3_3">Fuji</string>
+    <string name="pista3"> Está en África</string>
+    <string name="correcto">¡Enhorabuena! Has acertado.</string>
+    <string name="incorrecto">¡Lo siento! La respuesta es incorrecta.</string>
+    <string name="pista">Pista</string>
+</resources>
